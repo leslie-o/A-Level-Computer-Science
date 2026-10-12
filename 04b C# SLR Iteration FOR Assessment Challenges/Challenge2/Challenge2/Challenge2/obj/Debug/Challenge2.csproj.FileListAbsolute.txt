@@ -1,0 +1,7 @@
+C:\Users\lesli\source\repos\C# Loreto Work\04b C# SLR Iteration FOR Assessment Challenges\Challenge2\Challenge2\Challenge2\bin\Debug\Challenge2.exe.config
+C:\Users\lesli\source\repos\C# Loreto Work\04b C# SLR Iteration FOR Assessment Challenges\Challenge2\Challenge2\Challenge2\bin\Debug\Challenge2.exe
+C:\Users\lesli\source\repos\C# Loreto Work\04b C# SLR Iteration FOR Assessment Challenges\Challenge2\Challenge2\Challenge2\bin\Debug\Challenge2.pdb
+C:\Users\lesli\source\repos\C# Loreto Work\04b C# SLR Iteration FOR Assessment Challenges\Challenge2\Challenge2\Challenge2\obj\Debug\Challenge2.csproj.AssemblyReference.cache
+C:\Users\lesli\source\repos\C# Loreto Work\04b C# SLR Iteration FOR Assessment Challenges\Challenge2\Challenge2\Challenge2\obj\Debug\Challenge2.csproj.CoreCompileInputs.cache
+C:\Users\lesli\source\repos\C# Loreto Work\04b C# SLR Iteration FOR Assessment Challenges\Challenge2\Challenge2\Challenge2\obj\Debug\Challenge2.exe
+C:\Users\lesli\source\repos\C# Loreto Work\04b C# SLR Iteration FOR Assessment Challenges\Challenge2\Challenge2\Challenge2\obj\Debug\Challenge2.pdb

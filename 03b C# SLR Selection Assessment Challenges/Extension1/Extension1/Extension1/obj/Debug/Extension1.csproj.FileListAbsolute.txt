@@ -1,0 +1,7 @@
+C:\Users\lesli\source\repos\C# Loreto Work\03b C# SLR Selection Assessment Challenges\Extension1\Extension1\Extension1\bin\Debug\Extension1.exe.config
+C:\Users\lesli\source\repos\C# Loreto Work\03b C# SLR Selection Assessment Challenges\Extension1\Extension1\Extension1\bin\Debug\Extension1.exe
+C:\Users\lesli\source\repos\C# Loreto Work\03b C# SLR Selection Assessment Challenges\Extension1\Extension1\Extension1\bin\Debug\Extension1.pdb
+C:\Users\lesli\source\repos\C# Loreto Work\03b C# SLR Selection Assessment Challenges\Extension1\Extension1\Extension1\obj\Debug\Extension1.csproj.AssemblyReference.cache
+C:\Users\lesli\source\repos\C# Loreto Work\03b C# SLR Selection Assessment Challenges\Extension1\Extension1\Extension1\obj\Debug\Extension1.csproj.CoreCompileInputs.cache
+C:\Users\lesli\source\repos\C# Loreto Work\03b C# SLR Selection Assessment Challenges\Extension1\Extension1\Extension1\obj\Debug\Extension1.exe
+C:\Users\lesli\source\repos\C# Loreto Work\03b C# SLR Selection Assessment Challenges\Extension1\Extension1\Extension1\obj\Debug\Extension1.pdb

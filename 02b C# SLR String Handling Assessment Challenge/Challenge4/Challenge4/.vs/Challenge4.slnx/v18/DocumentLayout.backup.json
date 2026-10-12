@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lesli\\source\\repos\\C# Loreto Work\\02b C# SLR String Handling Assessment Challenge\\Challenge4\\Challenge4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6B5B895-2CC1-4654-8BB3-8C6E8FEA4B0B}|Challenge4\\Challenge4.csproj|c:\\users\\lesli\\source\\repos\\c# loreto work\\02b c# slr string handling assessment challenge\\challenge4\\challenge4\\challenge4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6B5B895-2CC1-4654-8BB3-8C6E8FEA4B0B}|Challenge4\\Challenge4.csproj|solutionrelative:challenge4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lesli\\source\\repos\\C# Loreto Work\\02b C# SLR String Handling Assessment Challenge\\Challenge4\\Challenge4\\Challenge4\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge4\\Program.cs",
+              "ToolTip": "C:\\Users\\lesli\\source\\repos\\C# Loreto Work\\02b C# SLR String Handling Assessment Challenge\\Challenge4\\Challenge4\\Challenge4\\Program.cs*",
+              "RelativeToolTip": "Challenge4\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-22T17:17:09.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

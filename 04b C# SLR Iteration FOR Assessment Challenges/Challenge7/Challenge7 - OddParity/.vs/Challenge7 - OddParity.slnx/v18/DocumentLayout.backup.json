@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lesli\\source\\repos\\C# Loreto Work\\04b C# SLR Iteration FOR Assessment Challenges\\Challenge7\\Challenge7 - OddParity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04D5AAE4-44FB-4A82-81B8-164922C3B348}|Challenge7 - OddParity\\Challenge7 - OddParity.csproj|c:\\users\\lesli\\source\\repos\\c# loreto work\\04b c# slr iteration for assessment challenges\\challenge7\\challenge7 - oddparity\\challenge7 - oddparity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D5AAE4-44FB-4A82-81B8-164922C3B348}|Challenge7 - OddParity\\Challenge7 - OddParity.csproj|solutionrelative:challenge7 - oddparity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lesli\\source\\repos\\C# Loreto Work\\04b C# SLR Iteration FOR Assessment Challenges\\Challenge7\\Challenge7 - OddParity\\Challenge7 - OddParity\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge7 - OddParity\\Program.cs",
+              "ToolTip": "C:\\Users\\lesli\\source\\repos\\C# Loreto Work\\04b C# SLR Iteration FOR Assessment Challenges\\Challenge7\\Challenge7 - OddParity\\Challenge7 - OddParity\\Program.cs",
+              "RelativeToolTip": "Challenge7 - OddParity\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-10T21:06:26.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

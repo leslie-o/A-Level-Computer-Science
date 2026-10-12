@@ -1,0 +1,7 @@
+C:\Users\lesli\source\repos\C# Loreto Work\02b C# SLR String Handling Assessment Challenge\Challenge 1\Challenge1\Challenge1\bin\Debug\Challenge1.exe.config
+C:\Users\lesli\source\repos\C# Loreto Work\02b C# SLR String Handling Assessment Challenge\Challenge 1\Challenge1\Challenge1\bin\Debug\Challenge1.exe
+C:\Users\lesli\source\repos\C# Loreto Work\02b C# SLR String Handling Assessment Challenge\Challenge 1\Challenge1\Challenge1\bin\Debug\Challenge1.pdb
+C:\Users\lesli\source\repos\C# Loreto Work\02b C# SLR String Handling Assessment Challenge\Challenge 1\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.AssemblyReference.cache
+C:\Users\lesli\source\repos\C# Loreto Work\02b C# SLR String Handling Assessment Challenge\Challenge 1\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\lesli\source\repos\C# Loreto Work\02b C# SLR String Handling Assessment Challenge\Challenge 1\Challenge1\Challenge1\obj\Debug\Challenge1.exe
+C:\Users\lesli\source\repos\C# Loreto Work\02b C# SLR String Handling Assessment Challenge\Challenge 1\Challenge1\Challenge1\obj\Debug\Challenge1.pdb

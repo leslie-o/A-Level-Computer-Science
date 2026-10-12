@@ -1,0 +1,7 @@
+C:\Users\lesli\source\repos\C# Loreto Work\03b C# SLR Selection Assessment Challenges\Challenge6\Challenge6\Challenge6\bin\Debug\Challenge6.exe.config
+C:\Users\lesli\source\repos\C# Loreto Work\03b C# SLR Selection Assessment Challenges\Challenge6\Challenge6\Challenge6\bin\Debug\Challenge6.exe
+C:\Users\lesli\source\repos\C# Loreto Work\03b C# SLR Selection Assessment Challenges\Challenge6\Challenge6\Challenge6\bin\Debug\Challenge6.pdb
+C:\Users\lesli\source\repos\C# Loreto Work\03b C# SLR Selection Assessment Challenges\Challenge6\Challenge6\Challenge6\obj\Debug\Challenge6.csproj.AssemblyReference.cache
+C:\Users\lesli\source\repos\C# Loreto Work\03b C# SLR Selection Assessment Challenges\Challenge6\Challenge6\Challenge6\obj\Debug\Challenge6.csproj.CoreCompileInputs.cache
+C:\Users\lesli\source\repos\C# Loreto Work\03b C# SLR Selection Assessment Challenges\Challenge6\Challenge6\Challenge6\obj\Debug\Challenge6.exe
+C:\Users\lesli\source\repos\C# Loreto Work\03b C# SLR Selection Assessment Challenges\Challenge6\Challenge6\Challenge6\obj\Debug\Challenge6.pdb

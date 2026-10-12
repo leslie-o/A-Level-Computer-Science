@@ -1,0 +1,7 @@
+C:\Users\lesli\source\repos\C# Loreto Work\04b C# SLR Iteration FOR Assessment Challenges\Challenge7\Challenge7 - OddParity\Challenge7 - OddParity\bin\Debug\Challenge7 - OddParity.exe.config
+C:\Users\lesli\source\repos\C# Loreto Work\04b C# SLR Iteration FOR Assessment Challenges\Challenge7\Challenge7 - OddParity\Challenge7 - OddParity\bin\Debug\Challenge7 - OddParity.exe
+C:\Users\lesli\source\repos\C# Loreto Work\04b C# SLR Iteration FOR Assessment Challenges\Challenge7\Challenge7 - OddParity\Challenge7 - OddParity\bin\Debug\Challenge7 - OddParity.pdb
+C:\Users\lesli\source\repos\C# Loreto Work\04b C# SLR Iteration FOR Assessment Challenges\Challenge7\Challenge7 - OddParity\Challenge7 - OddParity\obj\Debug\Challenge7 - OddParity.csproj.AssemblyReference.cache
+C:\Users\lesli\source\repos\C# Loreto Work\04b C# SLR Iteration FOR Assessment Challenges\Challenge7\Challenge7 - OddParity\Challenge7 - OddParity\obj\Debug\Challenge7 - OddParity.csproj.CoreCompileInputs.cache
+C:\Users\lesli\source\repos\C# Loreto Work\04b C# SLR Iteration FOR Assessment Challenges\Challenge7\Challenge7 - OddParity\Challenge7 - OddParity\obj\Debug\Challenge7 - OddParity.exe
+C:\Users\lesli\source\repos\C# Loreto Work\04b C# SLR Iteration FOR Assessment Challenges\Challenge7\Challenge7 - OddParity\Challenge7 - OddParity\obj\Debug\Challenge7 - OddParity.pdb

@@ -1,0 +1,7 @@
+C:\Users\lesli\source\repos\C# Loreto Work\01b C# SLR Input, Output and Assignment Assessment Challenges\Challenge3\Challenge3\Challenge3\bin\Debug\Challenge3.exe.config
+C:\Users\lesli\source\repos\C# Loreto Work\01b C# SLR Input, Output and Assignment Assessment Challenges\Challenge3\Challenge3\Challenge3\bin\Debug\Challenge3.exe
+C:\Users\lesli\source\repos\C# Loreto Work\01b C# SLR Input, Output and Assignment Assessment Challenges\Challenge3\Challenge3\Challenge3\bin\Debug\Challenge3.pdb
+C:\Users\lesli\source\repos\C# Loreto Work\01b C# SLR Input, Output and Assignment Assessment Challenges\Challenge3\Challenge3\Challenge3\obj\Debug\Challenge3.csproj.AssemblyReference.cache
+C:\Users\lesli\source\repos\C# Loreto Work\01b C# SLR Input, Output and Assignment Assessment Challenges\Challenge3\Challenge3\Challenge3\obj\Debug\Challenge3.csproj.CoreCompileInputs.cache
+C:\Users\lesli\source\repos\C# Loreto Work\01b C# SLR Input, Output and Assignment Assessment Challenges\Challenge3\Challenge3\Challenge3\obj\Debug\Challenge3.exe
+C:\Users\lesli\source\repos\C# Loreto Work\01b C# SLR Input, Output and Assignment Assessment Challenges\Challenge3\Challenge3\Challenge3\obj\Debug\Challenge3.pdb

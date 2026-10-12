@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lesli\\source\\repos\\C# Loreto Work\\01b C# SLR Input, Output and Assignment Assessment Challenges\\Challenge2\\Challenge2b\\Challenge2b\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1837D485-AEDB-4937-AB3F-93B2CBCE9B45}|Challenge2b\\Challenge2b.csproj|c:\\users\\lesli\\source\\repos\\c# loreto work\\01b c# slr input, output and assignment assessment challenges\\challenge2\\challenge2b\\challenge2b\\challenge2b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1837D485-AEDB-4937-AB3F-93B2CBCE9B45}|Challenge2b\\Challenge2b.csproj|solutionrelative:challenge2b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lesli\\source\\repos\\C# Loreto Work\\01b C# SLR Input, Output and Assignment Assessment Challenges\\Challenge2\\Challenge2b\\Challenge2b\\Challenge2b\\Program.cs",
+              "RelativeDocumentMoniker": "Challenge2b\\Program.cs",
+              "ToolTip": "C:\\Users\\lesli\\source\\repos\\C# Loreto Work\\01b C# SLR Input, Output and Assignment Assessment Challenges\\Challenge2\\Challenge2b\\Challenge2b\\Challenge2b\\Program.cs",
+              "RelativeToolTip": "Challenge2b\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T19:10:44.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
