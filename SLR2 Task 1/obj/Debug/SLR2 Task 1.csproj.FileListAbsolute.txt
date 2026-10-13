@@ -1,0 +1,8 @@
+N:\C# Programming Bootcamp\SLR2\SLR2 Task 1\bin\Debug\SLR2 Task 1.exe.config
+N:\C# Programming Bootcamp\SLR2\SLR2 Task 1\bin\Debug\SLR2 Task 1.exe
+N:\C# Programming Bootcamp\SLR2\SLR2 Task 1\bin\Debug\SLR2 Task 1.pdb
+N:\C# Programming Bootcamp\SLR2\SLR2 Task 1\obj\Debug\SLR2 Task 1.csproj.AssemblyReference.cache
+N:\C# Programming Bootcamp\SLR2\SLR2 Task 1\obj\Debug\SLR2 Task 1.csproj.CoreCompileInputs.cache
+N:\C# Programming Bootcamp\SLR2\SLR2 Task 1\obj\Debug\SLR2 Task 1.exe
+N:\C# Programming Bootcamp\SLR2\SLR2 Task 1\obj\Debug\SLR2 Task 1.pdb
+N:\C# Programming Bootcamp\SLR2\SLR2 Task 1\obj\Debug\SLR2 Task 1.exe.config
