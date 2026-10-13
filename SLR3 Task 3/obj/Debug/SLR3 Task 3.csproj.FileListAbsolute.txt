@@ -1,0 +1,7 @@
+N:\C# Programming Bootcamp\SLR3\SLR3 Task 3\bin\Debug\SLR3 Task 3.exe.config
+N:\C# Programming Bootcamp\SLR3\SLR3 Task 3\bin\Debug\SLR3 Task 3.exe
+N:\C# Programming Bootcamp\SLR3\SLR3 Task 3\bin\Debug\SLR3 Task 3.pdb
+N:\C# Programming Bootcamp\SLR3\SLR3 Task 3\obj\Debug\SLR3 Task 3.csproj.AssemblyReference.cache
+N:\C# Programming Bootcamp\SLR3\SLR3 Task 3\obj\Debug\SLR3 Task 3.csproj.CoreCompileInputs.cache
+N:\C# Programming Bootcamp\SLR3\SLR3 Task 3\obj\Debug\SLR3 Task 3.exe
+N:\C# Programming Bootcamp\SLR3\SLR3 Task 3\obj\Debug\SLR3 Task 3.pdb
