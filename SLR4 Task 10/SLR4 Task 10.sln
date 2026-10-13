@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLR4 Task 10", "SLR4 Task 10.csproj", "{8F6A3504-99A9-4B61-A43C-70FC672942A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F6A3504-99A9-4B61-A43C-70FC672942A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6A3504-99A9-4B61-A43C-70FC672942A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6A3504-99A9-4B61-A43C-70FC672942A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6A3504-99A9-4B61-A43C-70FC672942A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17462BD9-5BAF-4F9D-B168-9566DEB03573}
+	EndGlobalSection
+EndGlobal
