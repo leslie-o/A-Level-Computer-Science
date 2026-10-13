@@ -1,0 +1,8 @@
+N:\C# Programming Bootcamp\SLR4\SLR4 Task 4\bin\Debug\SLR4 Task 4.exe.config
+N:\C# Programming Bootcamp\SLR4\SLR4 Task 4\bin\Debug\SLR4 Task 4.exe
+N:\C# Programming Bootcamp\SLR4\SLR4 Task 4\bin\Debug\SLR4 Task 4.pdb
+N:\C# Programming Bootcamp\SLR4\SLR4 Task 4\obj\Debug\SLR4 Task 4.csproj.AssemblyReference.cache
+N:\C# Programming Bootcamp\SLR4\SLR4 Task 4\obj\Debug\SLR4 Task 4.csproj.CoreCompileInputs.cache
+N:\C# Programming Bootcamp\SLR4\SLR4 Task 4\obj\Debug\SLR4 Task 4.exe
+N:\C# Programming Bootcamp\SLR4\SLR4 Task 4\obj\Debug\SLR4 Task 4.pdb
+N:\C# Programming Bootcamp\SLR4\SLR4 Task 4\obj\Debug\SLR4 Task 4.exe.config
